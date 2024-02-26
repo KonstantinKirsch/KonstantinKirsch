@@ -3,6 +3,9 @@
 
 - 📫 How to reach me **konstantin_kirsch@hotmail.com**
 
+<h3 align="left">Motivation:</h3>
+I am passionate about a variety of relevant topics such as cloud computing, Linux, networks, security, programming, databases, cloud and IaaC. My continued pursuit of knowledge and passion for technological innovation make me an ideal candidate. I am confident that the skills I gain through your program will not only advance my career, but will also be applicable in the long term. I look forward to deepening my understanding and practical skills in various technical environments and thus making a valuable contribution to my professional growth.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/konstantin kirsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konstantin kirsch" height="30" width="40" /></a>
@@ -23,11 +26,11 @@ Automation with Jenkins
 - Version Control with Git
 
 <h3 align="left">Personal Skills:</h3>
-- creativity
+- Creativity
 - Self-reflective
 - Commitment & determination
 - Teamwork & communication
-- adaptability
+- Adaptability
 - Logical thinking
 - Lifelong learning
 
