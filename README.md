@@ -1,4 +1,5 @@
 # Connect with me:
+Linkedin, Xing, Indeed
 
 # Technologies:
 
