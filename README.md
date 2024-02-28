@@ -18,21 +18,26 @@ I am passionate about a variety of relevant topics such as cloud computing, Linu
 <p <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">DevOps Skills:</h3>
-Automation with Jenkins 
-- Infrastructure as Code (IaC) with Terraform 
-- Containerization with Docker 
-- Configuration Management with Ansible 
-- Monitoring and Logging with Grafana and Prometheus 
-- Version Control with Git
+<ul>
+    <li>Automation with Jenkins</li>
+    <li>Infrastructure as Code (IaC) with Terraform</li>
+    <li>Containerization with Docker</li>
+    <li>Configuration Management with Ansible</li>
+    <li>Monitoring and Logging with Grafana and Prometheus</li>
+    <li>Version Control with Git</li>
+</ul>
 
 <h3 align="left">Personal Skills:</h3>
-- Creativity
-- Self-reflective
-- Commitment & determination
-- Teamwork & communication
-- Adaptability
-- Logical thinking
-- Lifelong learning
+<ul>
+    <li>Creativity</li>
+    <li>Self-reflective</li>
+    <li>Commitment & determination</li>
+    <li>Teamwork & communication</li>
+    <li>Adaptability</li>
+    <li>Logical thinking</li>
+    <li>Lifelong learning</li>
+</ul>
+
 
 <h3 align="left">Language Proficieny:</h3>
 - Deutsch: C1
