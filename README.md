@@ -40,6 +40,8 @@ I am passionate about a variety of relevant topics such as cloud computing, Linu
 
 
 <h3 align="left">Language Proficieny:</h3>
-- Deutsch: C1
-- Russisch: B2/mündlich
-- Englisch: A1
+<ul>
+    <li>Deutsch: C1</li>
+    <li>Russisch: B2/mündlich</li>
+    <li> Englisch: A1</li>
+</ul>
